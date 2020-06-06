@@ -1,2 +1,2 @@
 # LoopLab
-Bootsarap Project One
+Bootstrap Project One
